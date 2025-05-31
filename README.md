@@ -16,5 +16,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Application Result:
-![alt text](image.png)
-![alt text](image-1.png)
+
+<p align="center">
+  <img src="image.png" alt="App Screenshot 1" width="250"/>
+  <img src="image-1.png" alt="App Screenshot 2" width="250"/>
+</p>
